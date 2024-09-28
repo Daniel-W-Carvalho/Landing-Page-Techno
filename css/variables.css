@@ -1,0 +1,18 @@
+:root {
+    --fundo-barra-lateral: rgb(255, 255, 255);
+    --borda-icone-barra-lateral: rgb(201, 201, 201);
+    --icones-barra-lateral: rgb(0, 0, 0);
+    --icone-github-barra-lateral-hover: rgb(209, 0, 0);
+    --icone-linkedin-barra-lateral-hover: rgb(74, 162, 235);
+    --icone-soundcloud-barra-lateral-hover: rgb(255, 115, 0);
+    --icone-spotify-barra-lateral-hover: rgb(0, 255, 64);
+    --cor-fundo-botao-lateral: #3fe484;
+    
+    --icone-barra-superior: rgb(255, 255, 255);
+    --fundo-segunda-secao: rgb(0, 0, 0);
+    --letras-segunda-secao: rgb(255, 255, 255);
+
+    --fundo-third-sec: linear-gradient(187deg, rgba(235,237,232,1) 25%, rgba(44,44,45,1) 83%);
+    --hover-title-third-sec: #3fe484;
+    --hover-letras-card-dj: #3fe484;
+}
